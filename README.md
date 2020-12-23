@@ -1,3 +1,3 @@
 # ProtoEngine
 
-This is a game engine that will power Dino.io.
+This is a game engine that will power Dino.io
